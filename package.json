@@ -105,7 +105,7 @@
     "@types/react-dom": "16.9.8",
     "@types/recoil": "0.0.1",
     "ace-builds": "1.4.12",
-    "apexcharts": "3.23.1",
+    "apexcharts": "3.24.0",
     "bootstrap": "4.6.0",
     "clipboard-copy": "4.0.1",
     "comlink": "4.3.0",
